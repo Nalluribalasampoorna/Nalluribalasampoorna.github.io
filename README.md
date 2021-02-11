@@ -2,14 +2,14 @@
 
 ## Education Details:
 
-**Branch,year:**Computer Science And Technology,1st year
+** Branch,year:** Computer Science And Technology,1st year
 
-**college Name:**Sri Vasavi Engineering College
+** college Name:**Sri Vasavi Engineering College
 
-##Skills:
+## Skills:
 
--C Programming
-_version control system(Git & GitHub)
+- C Programming
+_ version control system(Git & GitHub)
 
 ## Certifications:
 
